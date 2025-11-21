@@ -1,0 +1,7 @@
+{
+  "name": "Unreal Blueprint AI Architect",
+  "description": "An AI-powered workspace for designing Unreal Engine 5.4 Blueprints. Features a visual node canvas, expert chatbot with thinking capabilities, image analysis for debugging, and asset generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
